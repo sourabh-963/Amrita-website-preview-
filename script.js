@@ -1,1 +1,1 @@
-// Simulated JS
+console.log("Page loaded successfully!");
